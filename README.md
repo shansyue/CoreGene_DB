@@ -19,21 +19,30 @@ DNA seq needed to be compared with
 
 core gene
 
-## Front-end :
-
-Lang : HTML + CSS + Javascript
-
-Tool : jQuery, mootools, AngularJS, ReactJS, Gulp
-
-## Back-end :
-
-PHP (Lang) +  (Server) + MySQL (DB)
-
 ## DB :
 
 MySQL Root password : 3yh%#Gmd$n
 
-Username : katelo, Pw : 0513311
+Username : guest, Pw : 123456
+
+## Note :
+
+DB : coregene
+
+user : guest , pw : 123456
+
+
+website : Core Gene DataBase
+
+root : kapibarasanbst , pw : $K&1JJDBsH7B
+
+
+- C:\xampp\htdocs\drupal-8.5.5\sites\default\setting.php 
+
+      $settings['trusted_host_patterns'] = array(
+        '^pcsetting\.com$',
+        '^www\.pcsetting\.com$',
+      );
 
 ## Ref :
 
@@ -45,6 +54,16 @@ Username : katelo, Pw : 0513311
 
 - [How to import data from text file to mysql database](https://stackoverflow.com/questions/13579810/how-to-import-data-from-text-file-to-mysql-database)
 
-- 
+- [High Scaling Websites Structure Learning Notes 大型網站架構學習筆記](https://www.kancloud.cn/kancloud/high-scaling-structure-notes/50233)
+
+- [Copy your test site to a live site (GUI)](https://www.drupal.org/docs/7/upgrade-to-drupal-7/copy-your-test-site-to-a-live-site-gui)
+
+- [XAMPP 網頁伺服器架站工具設定與使用教學](https://www.pcsetting.com/devtools/54?page=0%2C0) (done)
+
+- [Drupal 8 好用的 CMS 架站軟體安裝設定與使用教學](https://www.pcsetting.com/devtools/60?page=0%2C0) (done)
+
+- [新手必看 Drupal Module 整理列表](https://bonze.tw/drupal_module_list/#base)
+
+
 
 
