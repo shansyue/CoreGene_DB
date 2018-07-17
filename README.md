@@ -19,31 +19,6 @@ DNA seq needed to be compared with
 
 core gene
 
-## DB :
-
-MySQL Root password : 3yh%#Gmd$n
-
-Username : guest, Pw : 123456
-
-## Note :
-
-DB : coregene
-
-user : guest , pw : 123456
-
-
-website : Core Gene DataBase
-
-root : kapibarasanbst , pw : $K&1JJDBsH7B
-
-
-- C:\xampp\htdocs\drupal-8.5.5\sites\default\setting.php 
-
-      $settings['trusted_host_patterns'] = array(
-        '^pcsetting\.com$',
-        '^www\.pcsetting\.com$',
-      );
-
 ## Ref :
 
 - [SQLite vs MySQL vs PostgreSQL：关系型数据库比较](http://www.infoq.com/cn/news/2014/04/sqlite-mysql-postgresql)
