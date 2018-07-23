@@ -39,6 +39,8 @@ core gene
 
 - [新手必看 Drupal Module 整理列表](https://bonze.tw/drupal_module_list/#base)
 
-- 
+- [如何利用phpMyAdmin建立MySQL資料庫與設計？](https://sofree.cc/phpmyadmin-mysql/)
+
+- []()
 
 
