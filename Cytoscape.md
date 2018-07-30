@@ -31,7 +31,7 @@ including nodes whose scores are above a given threshold.
 
 - K-Core Filtering : 
 
-removes clusters that do not contain at least K-Core network.
+  removes clusters that do not contain at least K-Core network.
 
 
 ## STEP 3. Post-Processing
@@ -40,11 +40,11 @@ removes clusters that do not contain at least K-Core network.
 
 - Haircut : 
 
-removes all singly-connected nodes from each cluster.
+  removes all singly-connected nodes from each cluster.
 
 - Fluff :
 
-expands cluster cores by one neighbor shell outwards according to a Density Cutoff.
+  expands cluster cores by one neighbor shell outwards according to a Density Cutoff.
 
 
 ## STEP 4. Cluster Scoring
