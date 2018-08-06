@@ -42,5 +42,5 @@ core gene
 - [如何利用phpMyAdmin建立MySQL資料庫與設計？](https://sofree.cc/phpmyadmin-mysql/)
 
 - []()
-
+123
 
